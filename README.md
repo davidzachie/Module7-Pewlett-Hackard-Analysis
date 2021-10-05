@@ -14,19 +14,19 @@
 
 ### The SQL codes for this analysis can be seen here:
 
-    [Employee_Database_Challenge.sql](https://github.com/davidzachie/Module7-Pewlett-Hackard-Analysis/blob/1984a9488316572f3318e7cd954ba897c86632ec/Queries/Employee_Database_Challenge.sql)
+[Employee_Database_Challenge.sql](https://github.com/davidzachie/Module7-Pewlett-Hackard-Analysis/blob/1984a9488316572f3318e7cd954ba897c86632ec/Queries/Employee_Database_Challenge.sql)
 
 ### Table that contains unique employee number list of retiring employees, their names, and titles can be used to prepare retirement package offerings and can be seen here:
 
-    [unique_titles.csv](https://raw.githubusercontent.com/davidzachie/Module7-Pewlett-Hackard-Analysis/main/Data/unique_titles.csv)
+[unique_titles.csv](https://raw.githubusercontent.com/davidzachie/Module7-Pewlett-Hackard-Analysis/main/Data/unique_titles.csv)
     
 ### Table that contains count of retiring employees by titles provides the company with the numbers of potential future vacant positions and job types that will need to be filled can be seen here:
 
-    [retiring_titles.csv](https://github.com/davidzachie/Module7-Pewlett-Hackard-Analysis/blob/1984a9488316572f3318e7cd954ba897c86632ec/Data/retiring_titles.csv)
+[retiring_titles.csv](https://github.com/davidzachie/Module7-Pewlett-Hackard-Analysis/blob/1984a9488316572f3318e7cd954ba897c86632ec/Data/retiring_titles.csv)
 
 ### Table that shows the list of employees who are eligible to participate in a mentorship program to help the company preparing succession planning and knowledge transfer process can be seen here:
     
-    [mentorship_eligibility.csv](https://github.com/davidzachie/Module7-Pewlett-Hackard-Analysis/blob/1984a9488316572f3318e7cd954ba897c86632ec/Data/mentorship_eligibility.csv)
+[mentorship_eligibility.csv](https://github.com/davidzachie/Module7-Pewlett-Hackard-Analysis/blob/1984a9488316572f3318e7cd954ba897c86632ec/Data/mentorship_eligibility.csv)
     
 ### Four major points from this analysis:
     *   Almost a third of the retirees are Senior Engineers and another third are other Senior Staff.
