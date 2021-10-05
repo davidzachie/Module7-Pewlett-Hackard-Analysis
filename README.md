@@ -6,9 +6,9 @@
 ### As "baby boomers" age employees are beginning to retire at a rapid rate, Pewlett Hackard needs to prepare retirement package offerings for those who qualified and to find out which positions will need to be filled in the near future, so the company can begin to prepare succession planning and knowledge transfer process as the retiring employees will be passing the torch to the younger generation.
 
 ### In this analysis we created tables that show:
-    *   List of retiring employees and their titles.
-    *   Count of retiring employees by titles.
-    *   List of employees who are eligible to participate in a mentorship program.
+### *   List of retiring employees and their titles.
+### *   Count of retiring employees by titles.
+### *   List of employees who are eligible to participate in a mentorship program.
 
 ## **Results**
 
@@ -36,9 +36,13 @@
 
 ## **Summary**
     
-### Number of roles that will need to be filled as the "silver tsunami" begins to make an impact
+### Number of roles that will need to be filled as the "silver tsunami" begins to make an impact:
 
 ![vacant_roles](Data/vacant_roles.png)
+
+### Are there enough qualified, retirement-ready mentors?
+
+![qualified_mentors](Data/qualified_mentors.png)
 
 To determine how many roles will need to be filled as the "silver tsunami" begins to make an impact, we can create a graph to categorize the retirees into age groups. For each year, the company can hire (internally or externally) the amount of people that would be retiring, assuming that the retirement age is 65. Currently, we have a list of people who were born between 1952 and 1955. Therefore, we would have a different hiring quota for each of the following four years.
 
