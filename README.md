@@ -29,14 +29,19 @@
 [mentorship_eligibility.csv](https://github.com/davidzachie/Module7-Pewlett-Hackard-Analysis/blob/1984a9488316572f3318e7cd954ba897c86632ec/Data/mentorship_eligibility.csv)
     
 ### Four major points from this analysis:
-    *   Almost a third of the retirees are Senior Engineers and another third are other Senior Staff.
-    *   Therefore, Senior Engineer and Senior Staff positions have the highest priority when it comes to deciding which roles the company need to fill.
-    *   From 90,398 people who are retiring, only 1,549 employees are qualifies for the mentorship program.
-    *   This means there are more employees retiring than there are potential mentors.  Therefore the company needs to create broader and more efficient succession and knowledge transfer programs to overcome the disparity between the number of retiring employees and the number of mentors who can help with training to fill future vacant positions.
+### *  Almost a third of the retirees are Senior Engineers and another third are other       Senior Staff.
+### *  Therefore, Senior Engineer and Senior Staff positions have the highest priority       when it comes to deciding which roles the company need to fill.
+### *  From 90,398 people who are retiring, only 1,549 employees are qualifies for the       mentorship program.
+### *  This means there are more employees retiring than there are potential mentors.        Therefore the company needs to create broader and more efficient succession and       knowledge transfer programs to overcome the disparity between the number of           retiring employees and the number of mentors who can help with training to fill       future vacant positions.
 
 ## **Summary**
     
 ### Number of roles that will need to be filled as the "silver tsunami" begins to make an impact
+
+To determine how many roles will need to be filled as the "silver tsunami" begins to make an impact, we can create a graph to categorize the retirees into age groups. For each year, the company can hire (internally or externally) the amount of people that would be retiring, assuming that the retirement age is 65. Currently, we have a list of people who were born between 1952 and 1955. Therefore, we would have a different hiring quota for each of the following four years.
+
+If we look at the current projection of potential mentors and the amount of people retiring, we do not have enough retirees to mentor the next generation of employees. Moving forward, we can create a query that gives us a list of people who are retiring at the end of the current year (and for each following year). From there, the company can prioritize how many younger employees need to be trained to fill up the retired positions. It would also be beneficial if we created a query that grouped mentor-eligible employees into position titles. With this table, the company can plan the mentorship program, specifically, how many mentees a mentor can take on to fulfill the retired roles.
+
     
     
 
