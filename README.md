@@ -40,7 +40,7 @@
 
 ![vacant_roles](Data/vacant_roles.png)
 
-### To answer the question if there would be enough qualified, retirement-ready employees to mentor the next generation of employees, we can look at the below table shows the summarized data of qualified mentors by positons from the mentorship_eligibility.csv file.
+### To answer the question if there would be enough qualified, retirement-ready employees to mentor the next generation of employees, we can look at the below table that shows the summarized data of qualified mentors by positons from the mentorship_eligibility.csv file.
 
 ![qualified_mentors](Data/qualified_mentors.png)
 
