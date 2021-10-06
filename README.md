@@ -36,18 +36,17 @@
 
 ## **Summary**
     
-### Number of roles that will need to be filled as the "silver tsunami" begins to make an impact:
+### The table below shows the number of roles that will need to be filled as the "silver tsunami" begins to make an impact.  This table also shows that a majority of the retiring employees (29,414 + 28,254)/90,398 = 64% are senior level employees.
 
 ![vacant_roles](Data/vacant_roles.png)
 
-### Are there enough qualified, retirement-ready employees to mentor the next generation of employees?
+### To answer the question if there would be enough qualified, retirement-ready employees to mentor the next generation of employees, we can look at the below table shows the summarized data of qualified mentors by positons from the mentorship_eligibility.csv file.
 
 ![qualified_mentors](Data/qualified_mentors.png)
 
-### Looking at the current projection of potential mentors and the number of people retiring, we do not have enough retirees to mentor the next generation of employees.
+### Looking at the current projection of potential mentors in comparison to the number of people retiring, we do not have enough retiring employess to mentor the next generation of Pewlett Hackard employees.
 
- Moving forward, we can create a query that gives us a list of people who are retiring at the end of the current year (and for each following year). From there, the company can prioritize how many younger employees need to be trained to fill up the retired positions. It would also be beneficial if we created a query that grouped mentor-eligible employees into position titles. With this table, the company can plan the mentorship program, specifically, how many mentees a mentor can take on to fulfill the retired roles.
-
+### Therefore, the company need to be more proactive in preparing succession planning and mentorship training programs to make sure there will be sufficient younger and junior or middle level employees who are prepared and well trained to fill future vacant senior positions.
     
     
 
